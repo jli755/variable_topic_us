@@ -1,0 +1,171 @@
+VariableStem	New topic	Dataset	Variable stem	Variable	Variable label	Current topic	Topic label	Wave	DataSetName
+cdephave1	10906	us1_a_hhresp	cdephave1	a_cdephave1	children have family holidays	107	Family and social networks	us1	hhresp
+cdephave1	10906	us8_h_hhresp	cdephave1	h_cdephave1	Family holiday	10707	Child welfare	us8	hhresp
+cdephave1	10906	us6_f_hhresp	cdephave1	f_cdephave1	family holiday	10707	Child welfare	us6	hhresp
+cdephave1	10906	us2_b_hhresp	cdephave1	b_cdephave1	family holiday	107	Family and social networks	us2	hhresp
+cdephave1	10906	us4_d_hhresp	cdephave1	d_cdephave1	family holiday	10906	Consumption | Expenditure	us4	hhresp
+currpart4	10702	us7_g_indresp	currpart4	g_currpart4	cohab no. 4: Check if current husband/wife/partner	10703	Marital status	us7	indresp
+currpart4	10702	us6_f_indresp	currpart4	f_currpart4	cohab no. 4: check if current husband/wife/partner	10703	Marital status	us6	indresp
+currpart4	10702	us8_h_indresp	currpart4	h_currpart4	cohab no. 4: Check if current husband/wife/partner	10702	Household composition	us8	indresp
+currpart4	10702	us2_b_indresp	currpart4	b_currpart4	cohab no. 4: check if current husband/wife/partner	10702	Household composition	us2	indresp
+currpart4	10702	us5_e_indresp	currpart4	e_currpart4	cohab no. 4: check if current partner	10703	Marital status	us5	indresp
+dieprismth	10702	us8_h_indall	 dieprismth	h_dieprismth	Month to prison or died	115	Administration	us8	indall
+dieprismth	10702	us7_g_indall	 dieprismth	g_dieprismth	Month to prison or died	115	Administration	us7	indall
+dieprismth	10702	us8_h_child	 dieprismth	h_dieprismth	Month to prison or died	10702	Household composition	us8	child
+dieprismth	10702	us7_g_child	 dieprismth	g_dieprismth	Month to prison or died	10702	Household composition	us7	child
+dieprismth	10702	us6_f_child	 dieprismth	f_dieprismth	month to prison or died	10702	Household composition	us6	child
+dieprismth	10702	us6_f_indall	 dieprismth	f_dieprismth	month to prison or died	115	Administration	us6	indall
+dieprisyr	10702	us8_h_indall	 dieprisyr	h_dieprisyr	Year to prison or died	115	Administration	us8	indall
+dieprisyr	10702	us6_f_indall	 dieprisyr	f_dieprisyr	year to prison or died	115	Administration	us6	indall
+dieprisyr	10702	us8_h_child	 dieprisyr	h_dieprisyr	Year to prison or died	10702	Household composition	us8	child
+dieprisyr	10702	us7_g_child	 dieprisyr	g_dieprisyr	Year to prison or died	10702	Household composition	us7	child
+dieprisyr	10702	us6_f_child	 dieprisyr	f_dieprisyr	year to prison or died	10702	Household composition	us6	child
+dieprisyr	10702	us7_g_indall	 dieprisyr	g_dieprisyr	Year to prison or died	115	Administration	us7	indall
+doby_if	10107	us8_h_youth	 doby_if	h_doby_if	DOB Year imputation flag	115	Administration	us8	youth
+doby_if	10107	us5_e_youth	 doby_if	e_doby_if	DOB Year imputation flag	 no_topic	Age	us5	youth
+doby_if	10107	us4_d_youth	 doby_if	d_doby_if	DOB Year imputation flag	 no_topic	Age	us4	youth
+doby_if	10107	us2_b_youth	 doby_if	b_doby_if	DOB Year imputation flag	 no_topic	Age	us2	youth
+doby_if	10107	us8_h_indresp	 doby_if	h_doby_if	DOB Year imputation flag	10107	Age	us8	indresp
+doby_if	10107	us8_h_indall	 doby_if	h_doby_if	DOB Year imputation flag	10107	Age	us8	indall
+doby_if	10107	us8_h_child	 doby_if	h_doby_if	DOB Year imputation flag	10107	Age	us8	child
+doby_if	10107	us7_g_child	 doby_if	g_doby_if	DOB Year imputation flag	10107	Age	us7	child
+doby_if	10107	us7_g_indresp	 doby_if	g_doby_if	DOB Year imputation flag	10107	Age	us7	indresp
+doby_if	10107	us7_g_indall	 doby_if	g_doby_if	DOB Year imputation flag	10107	Age	us7	indall
+doby_if	10107	us6_f_indresp	 doby_if	f_doby_if	DOB Year imputation flag	10107	Age	us6	indresp
+doby_if	10107	us6_f_child	 doby_if	f_doby_if	DOB Year imputation flag	10107	Age	us6	child
+doby_if	10107	us6_f_indall	 doby_if	f_doby_if	DOB Year imputation flag	10107	Age	us6	indall
+doby_if	10107	us6_f_youth	 doby_if	f_doby_if	DOB Year imputation flag	10107	Age	us6	youth
+doby_if	10107	us5_e_indresp	 doby_if	e_doby_if	DOB Year imputation flag	10107	Age	us5	indresp
+doby_if	10107	us5_e_indall	 doby_if	e_doby_if	DOB Year imputation flag	10107	Age	us5	indall
+doby_if	10107	us5_e_child	 doby_if	e_doby_if	DOB Year imputation flag	10107	Age	us5	child
+doby_if	10107	us4_d_indall	 doby_if	d_doby_if	DOB Year imputation flag	10107	Age	us4	indall
+doby_if	10107	us4_d_child	 doby_if	d_doby_if	DOB Year imputation flag	10107	Age	us4	child
+doby_if	10107	us4_d_indresp	 doby_if	d_doby_if	DOB Year imputation flag	10107	Age	us4	indresp
+doby_if	10107	us3_c_indresp	 doby_if	c_doby_if	DOB Year imputation flag	10107	Age	us3	indresp
+doby_if	10107	us3_c_indall	 doby_if	c_doby_if	DOB Year imputation flag	10107	Age	us3	indall
+doby_if	10107	us3_c_youth	 doby_if	c_doby_if	DOB Year imputation flag	10107	Age	us3	youth
+doby_if	10107	us3_c_child	 doby_if	c_doby_if	DOB Year imputation flag	10107	Age	us3	child
+doby_if	10107	us2_b_child	 doby_if	b_doby_if	DOB Year imputation flag	10107	Age	us2	child
+doby_if	10107	us2_b_indall	 doby_if	b_doby_if	DOB Year imputation flag	10107	Age	us2	indall
+doby_if	10107	us2_b_indresp	 doby_if	b_doby_if	DOB Year imputation flag	10107	Age	us2	indresp
+doby_if	10107	us1_a_child	 doby_if	a_doby_if	DOB Year imputation flag	10107	Age	us1	child
+doby_if	10107	us1_a_indall	 doby_if	a_doby_if	DOB Year imputation flag	10107	Age	us1	indall
+doby_if	10107	us7_g_youth	 doby_if	g_doby_if	DOB Year imputation flag	115	Administration	us7	youth
+hedlik	10813	us4_d_indresp	 hedlik	d_hedlik	likelihood of entering higher education	10803	Further education | Higher education	us4	indresp
+hedlik	10813	us8_h_indresp	 hedlik	h_hedlik	Likelihood of entering higher education	10813	Education aspirations	us8	indresp
+hedlik	10813	us7_g_indresp	 hedlik	g_hedlik	Likelihood of entering higher education	10813	Education aspirations	us7	indresp
+hedlik	10813	us6_f_indresp	 hedlik	f_hedlik	likelihood of entering higher education	10813	Education aspirations	us6	indresp
+hedlik	10813	us5_e_indresp	 hedlik	e_hedlik	likelihood of entering further education	10813	Education aspirations	us5	indresp
+j1nssec8_dv	10902	us3_c_indresp	j1nssec8_dv	c_j1nssec8_dv	own first job: NSSEC 8 classes	10901	Occupation | Employment	us3	indresp
+j1nssec8_dv	10902	us8_h_indresp	j1nssec8_dv	h_j1nssec8_dv	own first job: NSSEC 8 classes	10902	Social classification	us8	indresp
+j1nssec8_dv	10902	us7_g_indresp	j1nssec8_dv	g_j1nssec8_dv	own first job: NSSEC 8 classes	10902	Social classification	us7	indresp
+j1nssec8_dv	10902	us6_f_indresp	j1nssec8_dv	f_j1nssec8_dv	own first job: NSSEC 8 classes	10902	Social classification	us6	indresp
+j1nssec8_dv	10902	us5_e_indresp	j1nssec8_dv	e_j1nssec8_dv	own first job: NSSEC 8 classes	10902	Social classification	us5	indresp
+j1nssec8_dv	10902	us4_d_indresp	j1nssec8_dv	d_j1nssec8_dv	own first job: NSSEC 8 classes	10902	Social classification	us4	indresp
+j1nssec8_dv	10902	us2_b_indresp	j1nssec8_dv	b_j1nssec8_dv	own first job: NSSEC 8 classes	10902	Social classification	us2	indresp
+lmcbm4	10702	us8_h_indresp	lmcbm4	h_lmcbm4	cohab no. 4: Month began cohabitation spell	10702	Household composition	us8	indresp
+lmcbm4	10702	us2_b_indresp	lmcbm4	b_lmcbm4	cohab no. 4: month began cohabitation spell	10702	Household composition	us2	indresp
+lmcbm4	10702	us7_g_indresp	lmcbm4	g_lmcbm4	cohab no. 4: Month began cohabitation spell	10703	Marital status	us7	indresp
+lmcbm4	10702	us5_e_indresp	lmcbm4	e_lmcbm4	cohab no. 4: month began cohab	10703	Marital status	us5	indresp
+lmcbm4	10702	us6_f_indresp	lmcbm4	f_lmcbm4	cohab no. 4: month began cohabitation spell	10704	Family members and relations	us6	indresp
+matdepg	10904	us8_h_hhresp	 matdepg	h_matdepg	Material deprivation: furniture	10904	Finances	us8	hhresp
+matdepg	10904	us6_f_hhresp	 matdepg	f_matdepg	material deprivation: furniture	10904	Finances	us6	hhresp
+matdepg	10904	us2_b_hhresp	 matdepg	b_matdepg	material deprivation: furniture	10904	Finances	us2	hhresp
+matdepg	10904	us1_a_hhresp	 matdepg	a_matdepg	replace worn out furniture	10904	Finances	us1	hhresp
+matdepg	10904	us4_d_hhresp	 matdepg	d_matdepg	material deprivation: furniture	10906	Consumption | Expenditure	us4	hhresp
+othben7	10903	us6_f_indresp	othben7	f_othben7	Rate Rebate	10908	Benefits | Welfare	us6	indresp
+othben7	10903	us8_h_indresp	othben7	h_othben7	Rate Rebate	10903	Income	us8	indresp
+othben7	10903	us7_g_indresp	othben7	g_othben7	Rate Rebate	10903	Income	us7	indresp
+single_dv	10702	us8_h_indall	 single_dv	h_single_dv	Single in hh	10702	Household composition	us8	indall
+single_dv	10702	us7_g_indall	 single_dv	g_single_dv	Single in hh	10702	Household composition	us7	indall
+single_dv	10702	us8_h_indresp	 single_dv	h_single_dv	Single in hh	10703	Marital status	us8	indresp
+single_dv	10702	us7_g_indresp	 single_dv	g_single_dv	Single in hh	10703	Marital status	us7	indresp
+single_dv	10702	us6_f_indresp	 single_dv	f_single_dv	Single in hh	10702	Household composition	us6	indresp
+single_dv	10702	us6_f_indall	 single_dv	f_single_dv	Single in hh	10702	Household composition	us6	indall
+single_dv	10702	us4_d_indall	 single_dv	d_single_dv	Single in hh	10702	Household composition	us4	indall
+single_dv	10702	us4_d_indresp	 single_dv	d_single_dv	Single in hh	10702	Household composition	us4	indresp
+single_dv	10702	us3_c_indresp	 single_dv	c_single_dv	Single in hh	10702	Household composition	us3	indresp
+single_dv	10702	us3_c_indall	 single_dv	c_single_dv	Single in hh	10702	Household composition	us3	indall
+single_dv	10702	us2_b_indresp	 single_dv	b_single_dv	Single in hh	10702	Household composition	us2	indresp
+single_dv	10702	us2_b_indall	 single_dv	b_single_dv	Single in hh	10702	Household composition	us2	indall
+single_dv	10702	us1_a_indresp	 single_dv	a_single_dv	Single in hh	10702	Household composition	us1	indresp
+single_dv	10702	us1_a_indall	 single_dv	a_single_dv	Single in hh	10702	Household composition	us1	indall
+transfmade6	10903	ch_indresp_w	transfmade6	ch_transfmade6	Transfers made - Neighbours	11609	Employment and income (CV19)	us8_covid	indresp_w
+transfmade6	10903	cf_indresp_w	transfmade6	cf_transfmade6	Transfers made - Neighbours	11609	Employment and income (CV19)	us6_covid	indresp_w
+transfmade6	10903	cf_indresp_t	transfmade6	cf_transfmade6	Who did you give financial help to: Neighbours	11609	Employment and income (CV19)	us6_covid	indresp_t
+transfmade6	10903	cd_indresp_w	transfmade6	cd_transfmade6	Transfers made - Neighbours	11609	Employment and income (CV19)	us4_covid	indresp_w
+transfmade6	10903	cb_indresp_w	transfmade6	cb_transfmade6	Transfers made - Neighbours	11609	Employment and income (CV19)	us2_covid	indresp_w
+transfmade6	10903	ca_indresp_w	transfmade6	ca_transfmade6	Transfers made - Neighbours	11609	Employment and income (CV19)	us1_covid	indresp_w
+transfmade6	10903	cb_indresp_t	transfmade6	cb_transfmade6	Who did you give financial help to: Neighbours	11607	Family and social networks (CV19)	us2_covid	indresp_t
+ynew	10702	us7_g_indall	 ynew	g_ynew	New joiner reason	115	Administration	us7	indall
+ynew	10702	us5_e_indall	 ynew	e_ynew	New joiner reason	115	Administration	us5	indall
+ynew	10702	us3_c_indall	 ynew	c_ynew	New joiner reason	115	Administration	us3	indall
+ynew	10702	us2_b_indall	 ynew	b_ynew	New joiner reason	115	Administration	us2	indall
+ynew	10702	us8_h_indall	 ynew	h_ynew	New joiner reason	115	Administration	us8	indall
+ynew	10702	us6_f_indall	 ynew	f_ynew	New joiner reason	115	Administration	us6	indall
+ynew	10702	us4_d_indall	 ynew	d_ynew	New joiner reason	115	Administration	us4	indall
+ynew	10702	us8_h_child	 ynew	h_ynew	New joiner reason	10702	Household composition	us8	child
+ynew	10702	us7_g_child	 ynew	g_ynew	New joiner reason	10702	Household composition	us7	child
+ynew	10702	us6_f_child	 ynew	f_ynew	New joiner reason	10702	Household composition	us6	child
+ynew	10702	us5_e_child	 ynew	e_ynew	New joiner reason	10702	Household composition	us5	child
+ynew	10702	us4_d_child	 ynew	d_ynew	New joiner reason	10702	Household composition	us4	child
+ynew	10702	us3_c_child	 ynew	c_ynew	New joiner reason	10702	Household composition	us3	child
+ynew	10702	us2_b_child	 ynew	b_ynew	New joiner reason	10702	Household composition	us2	child
+ypamar	11001	us6_f_youth	 ypamar	f_ypamar	at what age do you want to get married?	110	"Expectations, attitudes and beliefs"	us6	youth
+ypamar	11001	us6_f_indresp	 ypamar	f_ypamar	age want to get married	110	"Expectations, attitudes and beliefs"	us6	indresp
+ypamar	11001	us2_b_youth	 ypamar	b_ypamar	at what age do you want to get married?	110	"Expectations, attitudes and beliefs"	us2	youth
+ypamar	11001	us8_h_youth	 ypamar	h_ypamar	Age want to get married	11001	Social attitudes	us8	youth
+ypamar	11001	us8_h_indresp	 ypamar	h_ypamar	Age want to get married	11001	Social attitudes	us8	indresp
+ypamar	11001	us4_d_indresp	 ypamar	d_ypamar	age want to get married	11001	Social attitudes	us4	indresp
+ypamar	11001	us4_d_youth	 ypamar	d_ypamar	at what age do you want to get married?	110	"Expectations, attitudes and beliefs"	us4	youth
+ypapar	11001	us6_f_youth	 ypapar	f_ypapar	at what age do you want to start a family?	110	"Expectations, attitudes and beliefs"	us6	youth
+ypapar	11001	us6_f_indresp	 ypapar	f_ypapar	age want to start family	110	"Expectations, attitudes and beliefs"	us6	indresp
+ypapar	11001	us2_b_youth	 ypapar	b_ypapar	at what age do you want to start a family?	110	"Expectations, attitudes and beliefs"	us2	youth
+ypapar	11001	us8_h_youth	 ypapar	h_ypapar	Age want to start family	11001	Social attitudes	us8	youth
+ypapar	11001	us8_h_indresp	 ypapar	h_ypapar	Age want to start family	11001	Social attitudes	us8	indresp
+ypapar	11001	us4_d_indresp	 ypapar	d_ypapar	age want to start family	11001	Social attitudes	us4	indresp
+ypapar	11001	us4_d_youth	 ypapar	d_ypapar	at what age do you want to start a family?	110	"Expectations, attitudes and beliefs"	us4	youth
+ypfhweve	10812	us4_d_youth	 ypfhweve	d_ypfhweve	how many evenings do homework	 no_topic	Leisure activities	us4	youth
+ypfhweve	10812	us2_b_youth	 ypfhweve	b_ypfhweve	how many evenings do homework	10709	Leisure activities	us2	youth
+ypfhweve	10812	us8_h_youth	 ypfhweve	h_ypfhweve	"During an average week, on how many evenings do you do any homework?"	10812	School engagement	us8	youth
+ypfhweve	10812	us6_f_youth	 ypfhweve	f_ypfhweve	"during an average week, on how many evenings do you do any homework?"	10812	School engagement	us6	youth
+yphlhtf_dv	10320	us8_h_youth	 yphlhtf_dv	h_yphlhtf_dv	Height in feet and inches: feet	10320	Anthropometry	us8	youth
+yphlhtf_dv	10320	us2_b_youth	 yphlhtf_dv	b_yphlhtf_dv	Height in feet and inches: feet	10320	Anthropometry	us2	youth
+yphlhtf_dv	10320	us4_d_youth	 yphlhtf_dv	d_yphlhtf_dv	Height in feet and inches: feet	 no_topic	Anthropometry	us4	youth
+yphlhti_dv	10320	us4_d_youth	 yphlhti_dv	d_yphlhti_dv	Height in feet and inches: inches	 no_topic	Anthropometry	us4	youth
+yphlhti_dv	10320	us8_h_youth	 yphlhti_dv	h_yphlhti_dv	Height in feet and inches: inches	10320	Anthropometry	us8	youth
+yphlhti_dv	10320	us6_f_youth	 yphlhti_dv	f_yphlhti_dv	Height in feet and inches: inches	10320	Anthropometry	us6	youth
+yphlhti_dv	10320	us2_b_youth	 yphlhti_dv	b_yphlhti_dv	Height in feet and inches: inches	10320	Anthropometry	us2	youth
+yphlwtkg_dv	10320	us4_d_youth	 yphlwtkg_dv	d_yphlwtkg_dv	"Weight in kg, derived"	 no_topic	Anthropometry	us4	youth
+yphlwtkg_dv	10320	us8_h_youth	 yphlwtkg_dv	h_yphlwtkg_dv	"Weight in kg, derived"	10320	Anthropometry	us8	youth
+yphlwtkg_dv	10320	us6_f_youth	 yphlwtkg_dv	f_yphlwtkg_dv	"Weight in kg, derived"	10320	Anthropometry	us6	youth
+yphlwtkg_dv	10320	us2_b_youth	 yphlwtkg_dv	b_yphlwtkg_dv	"Weight in kg, derived"	10320	Anthropometry	us2	youth
+yphlwtm_dv	10320	us8_h_youth	 yphlwtm_dv	h_yphlwtm_dv	Unit of current weight	10320	Anthropometry	us8	youth
+yphlwtm_dv	10320	us6_f_youth	 yphlwtm_dv	f_yphlwtm_dv	Unit of current weight	10320	Anthropometry	us6	youth
+yphlwtm_dv	10320	us2_b_youth	 yphlwtm_dv	b_yphlwtm_dv	Unit of current weight	10320	Anthropometry	us2	youth
+yphlwtm_dv	10320	us4_d_youth	 yphlwtm_dv	d_yphlwtm_dv	Unit of current weight	 no_topic	Anthropometry	us4	youth
+ypmulpgms	10709	us2_b_youth	 ypmulpgms	b_ypmulpgms	ever play multiplayer online games	10606	Substance abuse	us2	youth
+ypmulpgms	10709	us4_d_youth	 ypmulpgms	d_ypmulpgms	do you ever play multi-player online games?	10606	Substance abuse	us4	youth
+ypmulpgms	10709	us8_h_youth	 ypmulpgms	h_ypmulpgms	Do you ever play multi-player online games?	10709	Leisure activities	us8	youth
+ypmulpgms	10709	us6_f_youth	 ypmulpgms	f_ypmulpgms	do you ever play multi-player online games?	10709	Leisure activities	us6	youth
+ypsdqc	10402	us1_a_youth	 ypsdqc	a_ypsdqc	"gets head-aches, stomach-aches or sickness"	10404	Emotions	us1	youth
+ypsdqc	10402	ch_youth_p	 ypsdqc	ch_ypsdqc	"I get a lot of headaches, stomach-aches or sickness"	11604	Mental health and mental processes (CV19)	us8_covid	youth_p
+ypsdqc	10402	cf_youth_p	 ypsdqc	cf_ypsdqc	"I get a lot of headaches, stomach-aches or sickness"	11604	Mental health and mental processes (CV19)	us6_covid	youth_p
+ypsdqc	10402	cd_youth_p	 ypsdqc	cd_ypsdqc	"I get a lot of headaches, stomach-aches or sickness"	11604	Mental health and mental processes (CV19)	us4_covid	youth_p
+ypsdqc	10402	us7_g_youth	 ypsdqc	g_ypsdqc	"I get a lot of headaches, stomach-aches or sickness"	10402	Personality | Temperament	us7	youth
+ypsdqc	10402	us5_e_youth	 ypsdqc	e_ypsdqc	"i get a lot of headaches, stomach-aches or sickness"	10402	Personality | Temperament	us5	youth
+ypsdqc	10402	us3_c_youth	 ypsdqc	c_ypsdqc	"i get a lot of headaches, stomach-aches or sickness"	10402	Personality | Temperament	us3	youth
+ypsdqe	10402	us1_a_youth	 ypsdqe	a_ypsdqe	gets very angry and often loses temper	10404	Emotions	us1	youth
+ypsdqe	10402	ch_youth_p	 ypsdqe	ch_ypsdqe	I get very angry and often lose my temper	11604	Mental health and mental processes (CV19)	us8_covid	youth_p
+ypsdqe	10402	cf_youth_p	 ypsdqe	cf_ypsdqe	I get very angry and often lose my temper	11604	Mental health and mental processes (CV19)	us6_covid	youth_p
+ypsdqe	10402	cd_youth_p	 ypsdqe	cd_ypsdqe	I get very angry and often lose my temper	11604	Mental health and mental processes (CV19)	us4_covid	youth_p
+ypsdqe	10402	us7_g_youth	 ypsdqe	g_ypsdqe	I get very angry and often lose my temper	10402	Personality | Temperament	us7	youth
+ypsdqe	10402	us5_e_youth	 ypsdqe	e_ypsdqe	i get very angry and often lose my temper	10402	Personality | Temperament	us5	youth
+ypsdqe	10402	us3_c_youth	 ypsdqe	c_ypsdqe	i get very angry and often lose my temper	10402	Personality | Temperament	us3	youth
+ypsdqh	10402	ch_youth_p	 ypsdqh	ch_ypsdqh	I worry a lot	11604	Mental health and mental processes (CV19)	us8_covid	youth_p
+ypsdqh	10402	cf_youth_p	 ypsdqh	cf_ypsdqh	I worry a lot	11604	Mental health and mental processes (CV19)	us6_covid	youth_p
+ypsdqh	10402	cd_youth_p	 ypsdqh	cd_ypsdqh	I worry a lot	11604	Mental health and mental processes (CV19)	us4_covid	youth_p
+ypsdqh	10402	us7_g_youth	 ypsdqh	g_ypsdqh	I worry a lot	10402	Personality | Temperament	us7	youth
+ypsdqh	10402	us5_e_youth	 ypsdqh	e_ypsdqh	i worry a lot	10402	Personality | Temperament	us5	youth
+ypsdqh	10402	us3_c_youth	 ypsdqh	c_ypsdqh	i worry a lot	10402	Personality | Temperament	us3	youth
+ypsdqh	10402	us1_a_youth	 ypsdqh	a_ypsdqh	worries a lot	10404	Emotions	us1	youth
