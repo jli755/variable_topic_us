@@ -5,7 +5,7 @@ import pandas as pd
 - get a 1-to-1 relation between variable and topic
 """
 
-# read in all us topic variables
+# read in all us topic variables from Jon
 df = pd.read_csv("update/update-usoc-topics.csv", sep="\t")
 
 # subset to prefix starts with us
@@ -74,15 +74,27 @@ df_filtered = df.drop_duplicates(subset=["VariableStem", "New topic"], keep="las
 
 # all
 df_output = df_filtered[["VariableStem", "New topic"]].sort_values(by="VariableStem")
-df_output.to_csv("update_dictionary.txt", sep="\t", index=False)
+#df_output.to_csv("update_dictionary.txt", sep="\t", index=False)
 
 # Remove all occurrences of values that are duplicated (keep only truly unique rows)
 df_unique = df_output.drop_duplicates(subset=["VariableStem"], keep=False)
-df_unique.to_csv("update_dictionary_unique.txt", sep="\t", index=False)
+#df_unique.to_csv("update_dictionary_unique.txt", sep="\t", index=False)
 
+"""
 # Get all duplicate values in "VariableStem"
 duplicate_values = df_output[df_output["VariableStem"].duplicated(keep=False)]
 # merge back to the original file
 merged_df = pd.merge(duplicate_values, df, on=["VariableStem", "New topic"], how="left")
 # output for Jon to check
 merged_df.to_csv("duplicate_VariableStem_topic_from_update.txt", sep="\t", index=False)
+"""
+
+# Jon fixed above duplicated values
+df_fix = pd.read_csv("update/duplicate_VariableStem_topic_from_update.tsv", sep="\t")
+# keep the unique updated pairs
+df_fix_no_duplicates = df_fix[["VariableStem", "New topic"]].drop_duplicates(subset=["VariableStem", "New topic"])
+df_fix_no_duplicates.reset_index(inplace=True, drop=True)
+
+# Vertical Concatenation (Adding Rows)
+df_new = pd.concat([df_unique, df_fix_no_duplicates], ignore_index=True)
+df_new.sort_values(by="VariableStem").to_csv("update_dictionary_unique.txt", sep="\t", index=False)
