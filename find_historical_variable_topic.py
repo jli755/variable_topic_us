@@ -59,13 +59,10 @@ def get_variable_stem(text_string):
     prefix = ["a_", "b_", "c_", "d_", "e_", "f_", "g_", "h_", "i_", "j_",
               "k_", "l_", "m_",
               "ca_", "cb_", "cc_", "cd_", "ce_", "cf_", "cg_", "ch_", "ci_",
-              "a_youth.", "b_youth.", "c_youth.", "d_child.", "d_youth.",
-              "e_child.", "e_indresp.", "e_youth.", "j_indresp.", "k_indresp.",
-              "m_callrec.", "m_chcare.", "m_child.", "m_chmain.", "m_egoalt.",
-              "m_hhresp.", "m_hhsamp.", "m_income.", "m_indall.", "m_indsamp.",
-              "m_newborn.", "m_parstyle.", "m_youth.",
-              "us10_j_indresp.", "us11_k_indresp.",
-              "child.", "indresp.", "youth."]
+              "youth.", "child.", "indresp.", "callrec.", "chcare.", "chmain.",
+              "egoalt.", "hhresp.", "hhsamp.", "income.", "indall.", "indsamp.",
+              "newborn.", "parstyle.",
+              "us10_", "us11_",]
 
     for item in prefix:
         if text_string.startswith(item):
