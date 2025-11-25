@@ -3,7 +3,7 @@ import os
 
 """
 goal: use variable_topic_reference_us.txt
-      assign topic for us10-us13 variables
+      assign topic for us9-us13 variables
 
 output: tv files
 """
@@ -14,6 +14,7 @@ df_ref = pd.read_csv("variable_topic_reference_us/variable_topic_reference_us.tx
 tv_dict = dict(zip(df_ref["VariableStem"], df_ref["TopicID"]))
 
 prefix_dict = {
+               "us9": "us9_i_",
                "us10": "us10_j_",
                "us11": "us11_k_",
                "us12": "us12_l_",
@@ -23,16 +24,16 @@ prefix_dict = {
 # read in cleaned all us topic variables from output of find_historical_variable_topic.py
 df = pd.read_csv("all_us_topic_variable_filtered.txt", sep="\t")
 
-# subset to us10 - us13
+# subset to us9 - us13
 # The list of values to filter by
-desired_waves = ["us10", "us11", "us12", "us13"]
+desired_waves = ["us9", "us10", "us11", "us12", "us13"]
 df_sub = df[df["Wave"].isin(desired_waves)]
 
 output_path = "tv"
 if not os.path.exists(output_path):
     os.makedirs(output_path)
 
-# go over wave 10 - 13
+# go over wave 9 - 13
 for us in desired_waves:
     # make a directory for each wave
     output_path = os.path.join("tv", us)

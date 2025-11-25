@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 """
-goal: use variable-topic table us1 - us9
+goal: use variable-topic table us1 - us8
       and updated values from excel sheet
 
 output: reference table that will be used to update us10-us13 variables
@@ -32,6 +32,7 @@ def get_data_name(text_string):
                    "us10": "us10_j_",
                    "us11": "us11_k_",
                    "us12": "us12_l_",
+                   "us12": "l_",
                    "us13": "us13_m_",
                    "us1_covid": "ca_",
                    "us2_covid": "cb_",
@@ -81,9 +82,9 @@ df.to_csv("all_us_topic_variable_filtered.txt", sep="\t", index=False)
 # remove TopicID = 0
 df_rm0 = df[df["TopicID"] != 0]
 
-# subset to us1 - us9
+# subset to us1 - us8
 # The list of values to filter by
-desired_waves = ["us1", "us2", "us3", "us4", "us5", "us6", "us7", "us8", "us9"]
+desired_waves = ["us1", "us2", "us3", "us4", "us5", "us6", "us7", "us8"]
 df_sub = df_rm0[df_rm0["Wave"].isin(desired_waves)]
 
 # Remove duplicates based on "VariableStem" and "TopicID", keeping the last occurrence
@@ -95,7 +96,7 @@ df_output = df_filtered[["VariableStem", "TopicID"]].sort_values(by="VariableSte
 
 # Remove all occurrences of values that are duplicated (keep only truly unique rows)
 df_unique = df_output.drop_duplicates(subset=["VariableStem"], keep=False)
-df_unique.to_csv("us1-us9_dictionary_unique.txt", sep="\t", index=False)
+df_unique.to_csv("us1-us8_dictionary_unique.txt", sep="\t", index=False)
 
 # output duplicated values to check
 duplicate_values = df_output[df_output["VariableStem"].duplicated(keep=False)]
