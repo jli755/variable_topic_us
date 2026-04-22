@@ -57,7 +57,10 @@ def get_variable_stem(text_string):
     """
     remove leading a_
     """
-    prefix = ["a_", "b_", "c_", "d_", "e_", "f_", "g_", "h_", "i_", "j_",
+    prefix = ["us10_j_indresp.", "us11_k_indresp.", "j_indresp.", "k_indresp.", 
+              "m_child.", "m_indall.",
+              "e_child.", "e_indresp.",
+              "a_", "b_", "c_", "d_", "e_", "f_", "g_", "h_", "i_", "j_",
               "k_", "l_", "m_",
               "ca_", "cb_", "cc_", "cd_", "ce_", "cf_", "cg_", "ch_", "ci_",
               "youth.", "child.", "indresp.", "callrec.", "chcare.", "chmain.",
